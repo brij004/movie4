@@ -226,7 +226,7 @@ a:hover img {
     max-width: 110rem;
   }
   .grid-4-col {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr ;
   }
 }
 
@@ -238,7 +238,7 @@ a:hover img {
     margin: auto;
   }
   .grid-4-col {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 
   input {
